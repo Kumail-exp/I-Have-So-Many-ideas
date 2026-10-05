@@ -1,0 +1,7 @@
+# KPU
+Basically I had been quite fascinated by the concept of how logic gates when used properly can make entire processors. I tried learning more about them and simulating some basic ones in famous simulators but my pc cant handle them properly and i am not used to handling non-text like things.
+So, to improve my programming skills i attemptes to assume abstractly that a NAND gate is a function in two variable bits(it technically is) and then made a basic processor [NAND-8](https://github.com/Kumail-exp/KPU/tree/main/NAND-8) with memory mapped devices. It was quite unoptimised but i was happy with what i made.
+Then i realised the fact that it can be further optimised and i need dont need to implement each gate then i attempted another processor [KPU-16](https://github.com/Kumail-exp/KPU/tree/main/KPU16) which came out pretty neatly and was quite documented. My peers made some programmes for its kpu assembly and it is quite good.
+
+### future:
+I planned to make another CPU with even further optimisations in the language of C++ that i recently had learnt, but then i combined it with my another project of making a language and a kernel and now these are a giant monorepo project. Currently its not in a presentable form thus private but will be public sooner or later.
