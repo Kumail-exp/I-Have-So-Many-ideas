@@ -6,6 +6,6 @@ Well i actually get so many project ideas randomly that i want to work on but i 
 | Project | Description | Next Action |
 |---|---|---|
 | [KPU](./active/KPU) | Collection of hardware level projects | Implement arrays |
-
+| [KINU](./active/KINU) | KINU id not unix | complete GSC |
 # Completed
 <!-- o am too lazy to allat in a single commit lol -->
